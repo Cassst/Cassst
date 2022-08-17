@@ -33,6 +33,3 @@ Cuando comencé a estudiar programación, la verdad es que no sabia en lo que me
 
 <p align="left"> <a href="https://www.github.com//Cassst" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/augusto-castro/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<a href="https://github.com/Cassst" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=/Cassst&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
